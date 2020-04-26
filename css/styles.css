@@ -1,0 +1,42 @@
+header {
+	background-color: #00bfff;
+	margin-bottom: 5px;
+}
+
+h2 {
+	margin-bottom: 25px;
+}
+
+.navbar-brand {
+	padding: 10px;
+}
+
+button {
+	margin-left: 10px;
+}
+
+.navbar {
+	padding: 0;
+}
+
+
+.navbar > button {
+	margin-right: 10px;
+}
+
+.navbar-nav {
+	text-align: center;
+	margin-top: 5px;
+}
+
+.nav-item {
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin-bottom: -1px;
+}
+
+#container-text {
+	background-color: #00bfff;
+	padding: 10px;
+	margin-bottom: 10px;
+}
